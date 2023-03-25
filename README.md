@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Bikal Dawadi</h1>
+<h1 align="center">Hi 👋, I'm Bikal Dawadi aka dabey</h1>
 <h3 align="center">A passionate Software Engineer from Nepal</h3>
 
-<img align="right" alt="coding" width="400" src=https://www.google.com/url?sa=i&url=https%3A%2F%2Fgiphy.com%2Fexplore%2Fcoding&psig=AOvVaw2dfIumX21Ctvu4f1HnnB9a&ust=1679811439201000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCIjxzrG39v0CFQAAAAAdAAAAABAt">
+<img align="right" alt="coding" width="400" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashutosh-pmishra&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
